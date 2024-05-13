@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "234fef080fab1358",
+    "type": "split",
+    "children": [
+      {
+        "id": "89be57162d90a58a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff212db16a0846ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a3db83304de4984",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6d93d2025f8b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cacc87dbbd3378db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6728161ad306c065",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc33673007a23ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1987b04bfaea7720",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed72baab70e5aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67d39c811d58868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-05-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36099034e19e72fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1a08da765815220",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93d3b2f2678dc52f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "ff212db16a0846ff",
+  "lastOpenFiles": [
+    "2024-05-13.md",
+    "ggwp.md",
+    "Untitled 1.canvas",
+    "Django/Filter.md",
+    "Django/ORM.md",
+    "Django.md",
+    "Database.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Django",
+    "CM",
+    "ws'asd.md"
+  ]
+}
