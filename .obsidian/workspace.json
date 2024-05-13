@@ -11,15 +11,24 @@
             "id": "ff212db16a0846ff",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "303e3b7406571961",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "redme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "redme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "redme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-13.md"
+                "file": "redme.md"
               }
             }
           }
@@ -138,27 +147,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:เปิด quick switcher": false,
-      "graph:เปิดมุมมองกราฟ": false,
-      "daily-notes:เปิดโน้ตของวันนี้": false,
-      "templates:แทรกเทมเพลต": false,
-      "command-palette:เปิดกระดานคำสั่ง": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "ff212db16a0846ff",
+  "active": "303e3b7406571961",
   "lastOpenFiles": [
-    "2024-05-13.md",
-    "ggwp.md",
-    "Untitled 1.canvas",
-    "Django/Filter.md",
-    "Django/ORM.md",
     "Django.md",
-    "Database.md",
+    "redme.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
+    "ggwp.md",
     "Untitled.canvas",
-    "Untitled.md",
+    "Database.md",
+    "Django/ORM.md",
+    "Django/Filter.md",
+    "2024-05-13.md",
     "Django",
     "CM",
+    "Untitled 1.canvas",
     "ws'asd.md"
   ]
 }
