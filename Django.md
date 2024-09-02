@@ -1,6 +1,0 @@
-
-[[ORM]]
-
-Serializers
-
-[[Filter]]

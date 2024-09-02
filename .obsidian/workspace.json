@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "89be57162d90a58a",
+        "id": "f4f09067d0ce57aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ff212db16a0846ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "303e3b7406571961",
+            "id": "7a226ded79618fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redme.md",
+                "file": "CM/DOC/Custom Field.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redme.md",
+                "file": "CM/DOC/Custom Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redme.md",
+                "file": "CM/DOC/Custom Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redme.md"
+                "file": "CM/DOC/Custom Field.md"
               }
             }
           }
@@ -155,14 +146,22 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "303e3b7406571961",
+  "active": "cacc87dbbd3378db",
   "lastOpenFiles": [
-    "Django.md",
+    "CM/DOC/Field Setting.md",
+    "Pasted image 20240822162223.png",
+    "CM/DOC/Custom Field.md",
+    "[.md",
     "redme.md",
+    "CM/DOC/Field Config.md",
+    "Untitled.canvas",
+    "2024-08-22.md",
+    "Database.md",
+    "Django.md",
+    "CM/DOC",
+    "Untitled",
     "ยังไม่ได้ตั้งชื่อ.canvas",
     "ggwp.md",
-    "Untitled.canvas",
-    "Database.md",
     "Django/ORM.md",
     "Django/Filter.md",
     "2024-05-13.md",
