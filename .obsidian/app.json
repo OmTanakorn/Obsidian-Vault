@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": false,
   "attachmentFolderPath": "/",
   "userIgnoreFilters": null,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "vimMode": false
 }

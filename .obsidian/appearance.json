@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#84a4ae",
+  "textFontFamily": "Pixel Code",
+  "monospaceFontFamily": "Pixel Code",
+  "baseFontSize": 15,
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Pixel Code"
 }
