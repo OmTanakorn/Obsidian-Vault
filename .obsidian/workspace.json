@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               }
             }
           }
@@ -158,10 +158,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e447c8af3ed5635a",
+  "active": "cacc87dbbd3378db",
   "lastOpenFiles": [
+    "CM/Flow/Sprint33/File_S3_Lazyload.md",
+    "index.md",
     "Technology/Python_Syntax.md",
-    "Index.md",
     "Technology/Machine_Learning_Overview.md",
     "Technology",
     "Personal_Development/Time_Management.md",
@@ -169,7 +170,6 @@
     "Personal_Development",
     "Assets/Pasted image 20240906142259.png",
     "Assets",
-    "CM/Flow/Sprint33/File_S3_Lazyload.md",
     "CM/DOC/Lazyload/DOC.md",
     "CM/Flow/Sprint33/File S3 Lazyload.md",
     "CM/Flow/Sprint33/File.md",
