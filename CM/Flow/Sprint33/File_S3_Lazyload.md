@@ -148,14 +148,15 @@ Response V4
 ```
 ### Make Middenwars for File On S3
 #### To do Flow
-[o]get rady `MODEL_S3_FILE` for every model
-[o]payload -> get data
+
+- [x] get rady `MODEL_S3_FILE` for every model
+- [x] payload -> get data
 	id    | list |
 	model | name |
-[o]get `id` for filter
-[o]get `model` for queryset
-[ ]filter `id__in` list `id`
-[ ]return `Data`
+- [x] get `id` for filter
+- [x] get `model` for queryset
+- [x] filter `id__in` list `id`
+- [x] return `Data`
 
 > [!warning]
 > But Data is not like this. We need to make a new data before send data to Fontend
@@ -178,8 +179,7 @@ MODEL_S3_FILE = {
 	'after_file':{
 		'app':'work_order',
 		'model':'WorkOrderAfterFile'
-		}
-	
+		}	
 }
 ```
 
