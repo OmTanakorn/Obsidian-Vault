@@ -6,10 +6,13 @@ Welcom to my Obsidan Vault
 ### Lazyload image
 ##### Document API
 	that is document api if you use 
-[click](CM/DOC/Lazyload/DOC.mb)
+
+- [click](CM/DOC/Lazyload/DOC.mb)
+
 ##### Flow
 	this is flow api flow for you if you wan to know how i it work.
-[click](CM/Flow/Sprint33/File_S3_Lazyload)
+
+- [click](CM/Flow/Sprint33/File_S3_Lazyload)
 
 ---
 
