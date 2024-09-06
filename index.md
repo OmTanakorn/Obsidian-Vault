@@ -1,7 +1,7 @@
 # Hi Font End And Mobile
 Welcom to my Obsidan Vault
 
-![[Pasted image 20240906142259.png]]
+![[Assets/Pasted image 20240906142259.png]]
 
 ---
 ### Lazyload image
