@@ -23,6 +23,8 @@ Welcom to my Obsidan Vault
 - [2024 Goals](Personal_Development/2024_Goals.md)
 - [Time Management](Personal_Development/Time_Management.md)
 
-## Technology
-- [Machine Learning Overview](Technology/Machine_Learning_Overview.md)
-- [Python Syntax](Technology/Python_Syntax.md)
+----
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=91tkvuqtwxwozxib2x8tx1zq2">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=91tkvuqtwxwozxib2x8tx1zq2" alt="Data Card for Spotify">
+</a>

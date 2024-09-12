@@ -189,4 +189,3 @@ class BaseLoadFile():
 	s = siliailzer.
 ```
 
-#### HOW TO GROUP BY

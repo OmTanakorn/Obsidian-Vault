@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f09067d0ce57aa",
+        "id": "6a0ecde5a702979d",
         "type": "tabs",
         "children": [
           {
-            "id": "e447c8af3ed5635a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59728ef0837a5458",
+            "id": "c1dd23960c38508a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,17 +146,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "cacc87dbbd3378db",
+  "active": "c1dd23960c38508a",
   "lastOpenFiles": [
+    "CM/Flow/Sprint33/Add Image as view.md",
     "CM/Flow/Sprint33/File_S3_Lazyload.md",
     "index.md",
     "Technology/Python_Syntax.md",
+    "Personal_Development/2024_Goals.md",
+    "Assets/Pasted image 20240906142259.png",
+    "Response.md",
     "Technology/Machine_Learning_Overview.md",
     "Technology",
     "Personal_Development/Time_Management.md",
-    "Personal_Development/2024_Goals.md",
     "Personal_Development",
-    "Assets/Pasted image 20240906142259.png",
     "Assets",
     "CM/DOC/Lazyload/DOC.md",
     "CM/Flow/Sprint33/File S3 Lazyload.md",
@@ -198,7 +188,6 @@
     "ggwp.md",
     "Django/ORM.md",
     "Django/Filter.md",
-    "2024-05-13.md",
-    "ws'asd.md"
+    "2024-05-13.md"
   ]
 }
