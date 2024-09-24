@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CM/Flow/Sprint34/Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "CM/Flow/Sprint34/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "CM/Flow/Sprint34/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "CM/Flow/Sprint34/Note.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "c1dd23960c38508a",
   "lastOpenFiles": [
+    "index.md",
+    "CM/Flow/Sprint34/Note.md",
+    "CM/Flow/Sprint34",
     "CM/Flow/Sprint33/Add Image as view.md",
     "CM/Flow/Sprint33/File_S3_Lazyload.md",
-    "index.md",
     "Technology/Python_Syntax.md",
     "Personal_Development/2024_Goals.md",
     "Assets/Pasted image 20240906142259.png",
@@ -183,11 +185,9 @@
     "2024-08-22.md",
     "Database.md",
     "Django.md",
-    "CM/DOC",
     "ยังไม่ได้ตั้งชื่อ.canvas",
     "ggwp.md",
     "Django/ORM.md",
-    "Django/Filter.md",
-    "2024-05-13.md"
+    "Django/Filter.md"
   ]
 }
